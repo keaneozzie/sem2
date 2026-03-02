@@ -9,5 +9,8 @@ float phi = 3.14159;
     cin >> r;
 }
 
+int luaslingkaran(int r){
+    return r;
+}
 
 
